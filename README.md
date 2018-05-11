@@ -1,6 +1,7 @@
 # Avaliação de Código
 
 Instruções para realização do teste de código solicitado durante o processo de contratação.
+**Ao concluir as implementações, disponibilize o código em um repositório público e nos encaminhe o link.**
 
 ## Instruções Iniciais
 
@@ -27,5 +28,3 @@ Instruções para realização do teste de código solicitado durante o processo
     
 * Permitir o cancelamento de boletos
     * [API de cancelamento](https://www.pagueveloz.com.br/Help/Api/DELETE-api-v4-Boleto-id)
-
-**Ao concluir as implementações, disponibilize o código em um repositório público e nos encaminhe o link**
