@@ -1,4 +1,4 @@
-# Teste de Código PagueVeloz
+# Avaliação de Código
 
 Instruções para realização do teste de código solicitado durante o processo de contratação.
 
